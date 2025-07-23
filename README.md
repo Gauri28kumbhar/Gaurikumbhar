@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Gauri28kumbhar
 - 👀 I’m interested in learning new things. 
-- 🌱 I’m currently learning Java Full stack development.
 - I'm a code enthusiast who enjoys building meaningful digital experiences. I specialize in full-stack development using React, Java, Spring Boot, and REST APIs. Whether it's designing responsive UIs or crafting efficient backend systems, I love transforming ideas into scalable solutions. I’ve worked on everything from AI career tools to e-commerce platforms. Let’s connect, create, and code the future together!
 
 # 💻 Tech Stack:
